@@ -1,0 +1,10 @@
+# Ejecutables generados al compilar
+*.exe
+*.o
+
+# Archivos creados al ejecutar el ejercicio Archivo
+archivo*.txt
+
+# Documentos de la entrega (contienen datos personales)
+*.docx
+*.pdf
